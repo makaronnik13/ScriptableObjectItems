@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec12c3756f35b8f4a9737d5e3ff306ae, type: 3}
+  m_Name: Mandragora
+  m_EditorClassIdentifier: 
+  ItemItemType: 4
+  ItemWeaponType: 0
+  ItemClothesType: 0
+  ItemImg: {fileID: 21300036, guid: 8d2a9138ee503444baadde27bc179cf7, type: 3}
+  ItemName: Mandragora
+  ItemDescription: Mandragora
+  Charges: 0

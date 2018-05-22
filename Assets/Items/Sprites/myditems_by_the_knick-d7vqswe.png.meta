@@ -1,0 +1,1307 @@
+fileFormatVersion: 2
+guid: e02d4fde51ee39140982d0ce746c3fa5
+timeCreated: 1526998961
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: myditems_by_the_knick-d7vqswe_0
+    21300002: myditems_by_the_knick-d7vqswe_1
+    21300004: myditems_by_the_knick-d7vqswe_2
+    21300006: myditems_by_the_knick-d7vqswe_3
+    21300008: myditems_by_the_knick-d7vqswe_4
+    21300010: myditems_by_the_knick-d7vqswe_5
+    21300012: myditems_by_the_knick-d7vqswe_6
+    21300014: myditems_by_the_knick-d7vqswe_7
+    21300016: myditems_by_the_knick-d7vqswe_8
+    21300018: myditems_by_the_knick-d7vqswe_9
+    21300020: myditems_by_the_knick-d7vqswe_10
+    21300022: myditems_by_the_knick-d7vqswe_11
+    21300024: myditems_by_the_knick-d7vqswe_12
+    21300026: myditems_by_the_knick-d7vqswe_13
+    21300028: myditems_by_the_knick-d7vqswe_14
+    21300030: myditems_by_the_knick-d7vqswe_15
+    21300032: myditems_by_the_knick-d7vqswe_16
+    21300034: myditems_by_the_knick-d7vqswe_17
+    21300036: myditems_by_the_knick-d7vqswe_18
+    21300038: myditems_by_the_knick-d7vqswe_19
+    21300040: myditems_by_the_knick-d7vqswe_20
+    21300042: myditems_by_the_knick-d7vqswe_21
+    21300044: myditems_by_the_knick-d7vqswe_22
+    21300046: myditems_by_the_knick-d7vqswe_23
+    21300048: myditems_by_the_knick-d7vqswe_24
+    21300050: myditems_by_the_knick-d7vqswe_25
+    21300052: myditems_by_the_knick-d7vqswe_26
+    21300054: myditems_by_the_knick-d7vqswe_27
+    21300056: myditems_by_the_knick-d7vqswe_28
+    21300058: myditems_by_the_knick-d7vqswe_29
+    21300060: myditems_by_the_knick-d7vqswe_30
+    21300062: myditems_by_the_knick-d7vqswe_31
+    21300064: myditems_by_the_knick-d7vqswe_32
+    21300066: myditems_by_the_knick-d7vqswe_33
+    21300068: myditems_by_the_knick-d7vqswe_34
+    21300070: myditems_by_the_knick-d7vqswe_35
+    21300072: myditems_by_the_knick-d7vqswe_36
+    21300074: myditems_by_the_knick-d7vqswe_37
+    21300076: myditems_by_the_knick-d7vqswe_38
+    21300078: myditems_by_the_knick-d7vqswe_39
+    21300080: myditems_by_the_knick-d7vqswe_40
+    21300082: myditems_by_the_knick-d7vqswe_41
+    21300084: myditems_by_the_knick-d7vqswe_42
+    21300086: myditems_by_the_knick-d7vqswe_43
+    21300088: myditems_by_the_knick-d7vqswe_44
+    21300090: myditems_by_the_knick-d7vqswe_45
+    21300092: myditems_by_the_knick-d7vqswe_46
+    21300094: myditems_by_the_knick-d7vqswe_47
+    21300096: myditems_by_the_knick-d7vqswe_48
+    21300098: myditems_by_the_knick-d7vqswe_49
+    21300100: myditems_by_the_knick-d7vqswe_50
+    21300102: myditems_by_the_knick-d7vqswe_51
+    21300104: myditems_by_the_knick-d7vqswe_52
+    21300106: myditems_by_the_knick-d7vqswe_53
+    21300108: myditems_by_the_knick-d7vqswe_54
+    21300110: myditems_by_the_knick-d7vqswe_55
+    21300112: myditems_by_the_knick-d7vqswe_56
+    21300114: myditems_by_the_knick-d7vqswe_57
+    21300116: myditems_by_the_knick-d7vqswe_58
+    21300118: myditems_by_the_knick-d7vqswe_59
+    21300120: myditems_by_the_knick-d7vqswe_60
+    21300122: myditems_by_the_knick-d7vqswe_61
+    21300124: myditems_by_the_knick-d7vqswe_62
+    21300126: myditems_by_the_knick-d7vqswe_63
+    21300128: myditems_by_the_knick-d7vqswe_64
+    21300130: myditems_by_the_knick-d7vqswe_65
+    21300132: myditems_by_the_knick-d7vqswe_66
+    21300134: myditems_by_the_knick-d7vqswe_67
+    21300136: myditems_by_the_knick-d7vqswe_68
+    21300138: myditems_by_the_knick-d7vqswe_69
+    21300140: myditems_by_the_knick-d7vqswe_70
+    21300142: myditems_by_the_knick-d7vqswe_71
+    21300144: myditems_by_the_knick-d7vqswe_72
+    21300146: myditems_by_the_knick-d7vqswe_73
+    21300148: myditems_by_the_knick-d7vqswe_74
+    21300150: myditems_by_the_knick-d7vqswe_75
+    21300152: myditems_by_the_knick-d7vqswe_76
+    21300154: myditems_by_the_knick-d7vqswe_77
+    21300156: myditems_by_the_knick-d7vqswe_78
+    21300158: myditems_by_the_knick-d7vqswe_79
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 312
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 315
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 317
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_3
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 312
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_4
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 310
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_5
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 315
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_6
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 315
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_7
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 315
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_8
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 315
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_9
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 312
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_10
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 279
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_11
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 276
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_12
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 273
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_13
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 273
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_14
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 276
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_15
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 273
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_16
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 273
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_17
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 273
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_18
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 273
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_19
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 273
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 234
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_21
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 234
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_22
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 236
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_23
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 236
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_24
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 234
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_25
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 234
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_26
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 234
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_27
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 234
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_28
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 234
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_29
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 234
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 195
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_31
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 195
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_32
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 195
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_33
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 195
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_34
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 195
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_35
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 197
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_36
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 195
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_37
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 195
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_38
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 195
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_39
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 197
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 156
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_41
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 156
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_42
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 158
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_43
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 158
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_44
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 156
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_45
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 158
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_46
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 158
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_47
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 158
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_48
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 158
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_49
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 158
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_50
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 119
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_51
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 119
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_52
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 122
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_53
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 121
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_54
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 121
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_55
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 121
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_56
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 121
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_57
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 121
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_58
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 117
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_59
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 121
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 82
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_61
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 80
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_62
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 82
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_63
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 82
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_64
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 82
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_65
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 80
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_66
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 80
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_67
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 80
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_68
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 80
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_69
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 77
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_70
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 40
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_71
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 40
+        width: 117
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_72
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 41
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_73
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 41
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_74
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 40
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_75
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 40
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_76
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 40
+        width: 37
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_77
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_78
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 2
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: myditems_by_the_knick-d7vqswe_79
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
