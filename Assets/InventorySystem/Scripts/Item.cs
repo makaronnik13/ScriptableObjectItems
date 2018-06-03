@@ -2,9 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+//ScriptableObject предмета
 [CreateAssetMenu( menuName ="Item")]
 public class Item : ScriptableObject
 {
+    //Перечисление для типа предмета
     public enum ItemType
     {
         Quest,
@@ -14,6 +16,7 @@ public class Item : ScriptableObject
         Material
     }
 
+    //Перечисление для типа оружия
     public enum WeaponType
     {
         Bow,
@@ -23,6 +26,7 @@ public class Item : ScriptableObject
         Magic
     }
 
+    //Перечисление для типа одежды
     public enum ClothesType
     {
         Boots,
@@ -32,13 +36,19 @@ public class Item : ScriptableObject
         Artefact
     }
 
+    //тип предмета
     public ItemType ItemItemType;
+    //тип оружия
     public WeaponType ItemWeaponType;
+    //тип одежды
     public ClothesType ItemClothesType;
 
+    //картинка предмета
     public Sprite ItemImg;
+    //название предмета
     public string ItemName;
+    //описание предмета
     public string ItemDescription;
-
+    //количество зарядов
     public int Charges;
 }

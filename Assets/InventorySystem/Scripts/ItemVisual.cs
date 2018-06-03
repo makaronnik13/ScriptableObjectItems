@@ -4,6 +4,9 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+//Визуальное представление предмета, не делает ничего, кроме изменения картинки при инициализации,
+//Работает для Image и для SpriteRenderer, чтобы использовать и для предметов в инвентаре и для предметов вне его
+
 public class ItemVisual : MonoBehaviour
 {
     private Item visualisingItem;
